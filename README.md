@@ -1,3 +1,6 @@
+This fork can be removed once https://github.com/RickWong/react-inline-css/pull/25 has been merged.
+
+
 ![screenshot](https://i.imgur.com/7Pop4SZ.png?1)
 
 # React Inline CSS
